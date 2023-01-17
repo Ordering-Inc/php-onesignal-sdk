@@ -14,7 +14,6 @@
             "NNV\\OneSignal\\": "src/"
         }
     },
-    "minimum-stability": "dev",
     "require": {
         "guzzlehttp/guzzle": "^7.5.0",
         "php": ">=8.2",
